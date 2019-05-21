@@ -58,7 +58,9 @@ export default {
 </script>
 
 <style>
-
+.catalogue a{
+    text-decoration: none
+}
 .catalogue_tag{
     display: flex;
 
