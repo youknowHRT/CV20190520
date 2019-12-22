@@ -71,6 +71,29 @@
         </li>
       </ul>
     </section>
+     <section class="work">
+      <h5>刀风定时器-微信小程序</h5>
+      <img src="../assets/timer.jpg" alt>
+      <ul class="portfolio_info">
+        <li>
+          使用wxml和wxs制作的定时器小程序。
+          <br/>
+          比较简单的应用，由一个主页面和计时器倒计时以及主题选择三个页面构成，不涉及登录，点开直接使用。
+        </li>
+        <li>技术栈:wxml + wxs</li>
+        <hr>
+        <li>
+          <a href alt="js"></a>
+          <a href alt="vue"></a>
+          <span>
+            <a href="https://github.com/youknowHRT/dotaThemeAlarm">Github</a>
+          </span>
+          <span>
+            <a href="https://github.com/youknowHRT/dotaThemeAlarm">Try it</a>
+          </span>
+        </li>
+      </ul>
+    </section>
   </div>
 </template>
 
